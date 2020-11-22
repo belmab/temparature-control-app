@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/belmab/temparature-control-app.git/static/css/main.95bfb28a.chunk.css",
-    "main.js": "/belmab/temparature-control-app.git/static/js/main.39af042e.chunk.js",
-    "main.js.map": "/belmab/temparature-control-app.git/static/js/main.39af042e.chunk.js.map",
-    "runtime-main.js": "/belmab/temparature-control-app.git/static/js/runtime-main.aefa6472.js",
-    "runtime-main.js.map": "/belmab/temparature-control-app.git/static/js/runtime-main.aefa6472.js.map",
-    "static/js/2.bbe73022.chunk.js": "/belmab/temparature-control-app.git/static/js/2.bbe73022.chunk.js",
-    "static/js/2.bbe73022.chunk.js.map": "/belmab/temparature-control-app.git/static/js/2.bbe73022.chunk.js.map",
-    "index.html": "/belmab/temparature-control-app.git/index.html",
-    "static/css/main.95bfb28a.chunk.css.map": "/belmab/temparature-control-app.git/static/css/main.95bfb28a.chunk.css.map",
-    "static/js/2.bbe73022.chunk.js.LICENSE.txt": "/belmab/temparature-control-app.git/static/js/2.bbe73022.chunk.js.LICENSE.txt"
+    "main.css": "/belmab/temparature-control-app/static/css/main.95bfb28a.chunk.css",
+    "main.js": "/belmab/temparature-control-app/static/js/main.39af042e.chunk.js",
+    "main.js.map": "/belmab/temparature-control-app/static/js/main.39af042e.chunk.js.map",
+    "runtime-main.js": "/belmab/temparature-control-app/static/js/runtime-main.96fd66aa.js",
+    "runtime-main.js.map": "/belmab/temparature-control-app/static/js/runtime-main.96fd66aa.js.map",
+    "static/js/2.bbe73022.chunk.js": "/belmab/temparature-control-app/static/js/2.bbe73022.chunk.js",
+    "static/js/2.bbe73022.chunk.js.map": "/belmab/temparature-control-app/static/js/2.bbe73022.chunk.js.map",
+    "index.html": "/belmab/temparature-control-app/index.html",
+    "static/css/main.95bfb28a.chunk.css.map": "/belmab/temparature-control-app/static/css/main.95bfb28a.chunk.css.map",
+    "static/js/2.bbe73022.chunk.js.LICENSE.txt": "/belmab/temparature-control-app/static/js/2.bbe73022.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aefa6472.js",
+    "static/js/runtime-main.96fd66aa.js",
     "static/js/2.bbe73022.chunk.js",
     "static/css/main.95bfb28a.chunk.css",
     "static/js/main.39af042e.chunk.js"
