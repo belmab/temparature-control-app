@@ -2,7 +2,7 @@
   "name": "temparature-control-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/belmab/temparature-control-app.git",
+  "homepage": "https://github.com/belmab/temparature-control-app/˚",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
